@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 lkjerflkwejrfñlwkrejg
+=======
+asdfasfsadf
+>>>>>>> 4e58cf728021bafa799aaf291efd01bc5c24cd56
